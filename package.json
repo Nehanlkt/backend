@@ -1,0 +1,23 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "this is a spotify clone for my app",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nehanlkt/backend.git"
+  },
+  "keywords": [
+    "spotify",
+    "music"
+  ],
+  "author": "neha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nehanlkt/backend/issues"
+  },
+  "homepage": "https://github.com/Nehanlkt/backend#readme"
+}
