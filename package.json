@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Nehanlkt/backend#readme",
   "dependencies": {
+    "express": "^5.1.0",
     "file": "^0.2.2",
     "slugy": "^1.1.0"
   }
