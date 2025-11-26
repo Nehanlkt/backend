@@ -1,5 +1,7 @@
 const { error } = require("console")
 const fs=require("fs")
+// or
+// const fs=require("fs/promises")
 console.log(fs)
 
 // console.log("start")
