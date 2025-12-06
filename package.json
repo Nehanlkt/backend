@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "this is a spotify clone for my app",
   "main": "node.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,6 +24,7 @@
   "dependencies": {
     "express": "^4.21.2",
     "file": "^0.2.2",
+    "mongoose": "^9.0.1",
     "slugy": "^1.1.0"
   }
 }
